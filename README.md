@@ -27,15 +27,6 @@ Evaluación de la calidad de las transformaciones mediante ejemplos generados.
 Puntos Finales en la Nube
 El proyecto incluye la implementación de dos puntos finales públicos desplegados en un proveedor de nube:
 
-/polarity:
-Entrada: Texto de una reseña.
-Salida: Polaridad (0 para negativo, 1 para positivo) y una puntuación de confianza.
-/generate:
-Entrada: Texto de una reseña.
-Salida: Objeto JSON con:
-Polaridad original (positiva o negativa).
-Texto generado con la polaridad inversa.
-Recursos y Limitaciones
 Debido a limitaciones de tamaño en GitHub, algunos recursos como datasets y configuraciones específicas no están incluidos en este repositorio. Se recomienda consultar las fuentes indicadas en la documentación para obtener los datos y configuraciones necesarias.
 
 Requisitos
