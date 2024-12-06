@@ -29,16 +29,4 @@ El proyecto incluye la implementación de dos puntos finales públicos desplegad
 
 Debido a limitaciones de tamaño en GitHub, algunos recursos como datasets y configuraciones específicas no están incluidos en este repositorio. Se recomienda consultar las fuentes indicadas en la documentación para obtener los datos y configuraciones necesarias.
 
-Requisitos
-Python 3.8+
-Bibliotecas principales: tensorflow, scikit-learn, numpy, pandas, flask, entre otras.
-Acceso a los puntos finales configurados en la nube.
-Cómo Usar
-Clona este repositorio:
-bash
-Copiar código
-git clone https://github.com/tu_usuario/nombre_del_repositorio.git
-cd nombre_del_repositorio
-Asegúrate de tener los datasets y configuraciones necesarias.
-Ejecuta las notebooks o scripts en tu entorno local o en la nube.
-Interactúa con los puntos finales utilizando herramientas como Postman o cURL.
+tire paro profe.
